@@ -1,2 +1,3 @@
 myservice:
-  name: Service is zola and profile is dev
+  profile:
+    name: zola dev profile
