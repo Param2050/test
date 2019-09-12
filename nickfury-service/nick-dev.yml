@@ -1,3 +1,4 @@
 myservice:
   profile:
-    name: nickfury dev profile
+    dev: 
+      name: nickfury dev profile
