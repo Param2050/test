@@ -1,3 +1,3 @@
 myservice:
   profile:
-    name: zola dev profile
+    name: zola dev profile updated with spring cloud bus refresh event
